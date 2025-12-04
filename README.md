@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-Hi, I'm Timur  
+Hi, I'm Viktor  
 I'm a QA Engineer (Manual + Automation) with strong experience in testing web, mobile, and backend systems.  
 I focus on creating stable, scalable automated tests and improving product quality through structured QA processes.
 
