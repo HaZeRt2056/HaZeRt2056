@@ -62,7 +62,7 @@ Here are technologies I’ve worked with and use regularly:
 
 
 ### Contact with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-512DA8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-yuruschuk-33740a234/)/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-512DA8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-yuruschuk-33740a234/)
 [![Telegram](https://img.shields.io/badge/Telegram-0097A7?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CanAfraid_off)
 
 
